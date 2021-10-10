@@ -1,0 +1,22 @@
+// vendor
+@import 'bootstrap/scss/bootstrap.scss';
+
+// abstracts
+@import 'abstracts/variables';
+@import 'abstracts/placeholders';
+@import 'abstracts/mixins';
+@import 'abstracts/functions';
+
+// base
+@import 'normalize.scss/normalize.scss';
+@import 'base/typography';
+
+// layout
+@import 'layout/header';
+@import 'layout/footer';
+
+// components
+@import 'components/buttons';
+
+// pages
+@import 'pages/home';
